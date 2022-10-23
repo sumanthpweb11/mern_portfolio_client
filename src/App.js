@@ -6,7 +6,7 @@ import Work from "./pages/Work/Work";
 
 function App() {
   return (
-    <div className="mt-5  w-100 flex flex-col items-center justify-center md:flex-row   h-screen md:max-w-[90%] mx-auto bg-slate-50 ">
+    <div className=" bg-slate-50  mt-3 w-full h-screen  flex flex-row items-center justify-center md:flex-row md:max-w-[90%] md:max-h-[95vh] mx-auto  ">
       <Nav />
 
       <Routes>
